@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.7.3",
+    "codemirror": "^5.65.17",
+    "react-chatbox-component": "^0.0.5",
+    "react-codemirror2": "^8.0.0",
+    "react-console-emulator": "^5.0.2",
+    "react-contextmenu": "^2.14.0"
+  }
+}
